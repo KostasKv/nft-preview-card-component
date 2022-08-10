@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-card-component-with-image-hover-overlay-using-tailwind-css-MWTPrgNDbM)
-- Live Site URL: [Add live site URL here](https://kostaskv-nft-preview-card-component.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-card-component-with-image-hover-overlay-using-tailwind-css-MWTPrgNDbM](https://www.frontendmentor.io/solutions/responsive-card-component-with-image-hover-overlay-using-tailwind-css-MWTPrgNDbM)
+- Live Site URL: [https://kostaskv-nft-preview-card-component.netlify.app/](https://kostaskv-nft-preview-card-component.netlify.app/)
 
 ## My process
 
@@ -45,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://kostaskv-nft-preview-card-component.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kostaskv)
+- Website - [Kostas Kvietinskas](https://www.kostask.com)
+- Frontend Mentor - [@kostaskv](https://www.frontendmentor.io/profile/kostaskv)
